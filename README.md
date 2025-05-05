@@ -1,2 +1,2 @@
 # SVM_Classification_tasks
-Different classifiaction tasks with cifar-10 dataset using Support Vector Machines
+Multiclass classification using scikit learn library and 2 class classification solving the quadratic programming problem. Assignment for the Course Neural Networks from the Computer Science Department of Aristotle University of Thessaloniki (AUTH).
